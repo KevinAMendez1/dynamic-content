@@ -9,3 +9,4 @@ export class AppComponent {
   title = 'dynamic-content';
   name: string = "kevin";
 }
+
